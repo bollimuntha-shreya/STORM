@@ -47,7 +47,7 @@ This project adapts the original STORM framework (designed for Franka Emika Pand
 ---
 
 ## References
-- [STORM Original Paper by Nvidia]([https://github.com/your-link-here](https://research.nvidia.com/publication/2021-11_storm-integrated-framework-fast-joint-space-model-predictive-control-reactive))  
+- [STORM Original Paper by Nvidia](https://github.com/your-link-here](https://research.nvidia.com/publication/2021-11_storm-integrated-framework-fast-joint-space-model-predictive-control-reactive))  
 
 
 ## Code
