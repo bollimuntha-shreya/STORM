@@ -51,4 +51,4 @@ This project adapts the original STORM framework (designed for Franka Emika Pand
 
 
 ## Code
-- [GitHub Repository](https://github.com/bollimuntha-shreya/STORM))
+- [GitHub Repository](https://github.com/bollimuntha-shreya/STORM)
